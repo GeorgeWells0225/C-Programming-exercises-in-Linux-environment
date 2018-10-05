@@ -1,0 +1,3 @@
+Warning: loading ./nrgccf.o will taint the kernel: no license
+  See http://www.tux.org/lkml/#export-tainted for information about tainted modules
+Module nrgccf loaded, with warnings
